@@ -80,7 +80,7 @@
     height: 400px;
     width: 400px;
     position: relative;
-    
+    left: 10px;
     float: right;
 }
 .img3{
