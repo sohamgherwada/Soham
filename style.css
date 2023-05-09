@@ -80,16 +80,14 @@
     height: 400px;
     width: 400px;
     position: relative;
-    top: -85px;
     float: right;
-    opacity: 100%;
 }
 .img3{
     margin-right: 35px;
     height: 400px;
     width: 400px;
     position: relative;
-    top: -75px;
+
     float: right;
 }
 .img1:hover .Discription{
@@ -104,9 +102,7 @@
     opacity: 100%;
     transition: opacity 1s;
 }
-.img1:hover .img2{
-    opacity: 0%;
-}
+
 .img1:hover .images3{
     opacity: 0%;
 }
