@@ -73,6 +73,7 @@
     margin-left: 35px;
     height: 400px;
     width: 400px;
+    
     float: right;
 }
 .img2{
@@ -80,7 +81,7 @@
     height: 400px;
     width: 400px;
     position: relative;
-    left: 10px;
+    
     float: right;
 }
 .img3{
