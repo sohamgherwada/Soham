@@ -80,6 +80,7 @@
     height: 400px;
     width: 400px;
     position: relative;
+    
     float: right;
 }
 .img3{
@@ -87,7 +88,6 @@
     height: 400px;
     width: 400px;
     position: relative;
-
     float: right;
 }
 .img1:hover .Discription{
